@@ -1,3 +1,4 @@
+![banner](https://i.postimg.cc/cJBw2wWY/Sanjana-S-Aithal-1.png)
 # 👋 Hi there, I'm Sanjana!
 
 🎯 **Aspiring Developer | Tech Learner | Building Projects Step-by-Step**
