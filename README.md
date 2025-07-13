@@ -35,8 +35,8 @@
 ---
 
 ## 🌐 Let's Connect
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](#) *(replace with your real LinkedIn link)*
-- 📧 Email: yourmail@example.com
+- 💼 LinkedIn: (https://www.linkedin.com/in/sanjana-s-aithal-7aaa59337/)
+- 📧 Email: sanjanaaithal28@gmail.com
 - 📍 GitHub: [@SanjanaSAithal](https://github.com/SanjanaSAithal)
 
 ---
