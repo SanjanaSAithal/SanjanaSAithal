@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: C, HTML, CSS, JavaScript
+- **Languages**: C,C++, Python, HTML, CSS, JavaScript
 - **Tools**: Git, GitHub, VS Code, Canva
 - **Learning**: DSA (revising), AI-based app development, version control
 
@@ -29,7 +29,7 @@
 ---
 
 ## 📈 Learning Journey
-- 🧩 [AI To-Do App: Day 1 → Day 5 Progress](#) *(Coming soon... or can be in your Notion!)*
+- 🧩 [AI To-Do App: Day 1 → Day 5 Progress](#) 
 - 🎯 Currently revisiting DSA and improving front-end development skills
 
 ---
